@@ -1,4 +1,3 @@
-
 /**
  * Interfaccia da implementare per l'ordinamento
  * @author corrado
